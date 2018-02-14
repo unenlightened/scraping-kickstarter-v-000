@@ -14,10 +14,10 @@ def create_project_hash
   # percent_funded: project.css("li.first.funded strong").text.gsub("%", "").to_i
 
 
-binding.pry
+
 end
 
 
 
 
-create_project_hash
+
